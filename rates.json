@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "issued": "2026-11-23",
+  "source": "https://www.gov.uk/government/publications/rates-and-allowances-travel-mileage-and-fuel-allowances",
+  "rates": [
+    { "vehicleType": "CAR_VAN", "effectiveFrom": "2011-04-06", "pencePerMile": 45, "thresholdMiles": 10000, "overThresholdPencePerMile": 25 },
+    { "vehicleType": "CAR_VAN", "effectiveFrom": "2026-04-06", "pencePerMile": 55, "thresholdMiles": 10000, "overThresholdPencePerMile": 25 },
+    { "vehicleType": "MOTORCYCLE", "effectiveFrom": "2011-04-06", "pencePerMile": 24 },
+    { "vehicleType": "BICYCLE", "effectiveFrom": "2011-04-06", "pencePerMile": 20 }
+  ]
+}
